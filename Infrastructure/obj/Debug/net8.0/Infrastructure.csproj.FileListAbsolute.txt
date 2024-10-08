@@ -1,0 +1,17 @@
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/bin/Debug/net8.0/Infrastructure.deps.json
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/bin/Debug/net8.0/Infrastructure.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/bin/Debug/net8.0/Infrastructure.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/bin/Debug/net8.0/Core.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/bin/Debug/net8.0/Core.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.AssemblyReference.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.csproj.CoreCompileInputs.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastr.15EFFBFE.Up2Date
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/refint/Infrastructure.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/ref/Infrastructure.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/bin/Debug/net8.0/Infrastructure.runtimeconfig.json
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Infrastructure/obj/Debug/net8.0/Infrastructure.genruntimeconfig.cache

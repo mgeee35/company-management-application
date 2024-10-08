@@ -1,0 +1,17 @@
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/bin/Debug/net8.0/Business.deps.json
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/bin/Debug/net8.0/Business.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/bin/Debug/net8.0/Business.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/bin/Debug/net8.0/Core.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/bin/Debug/net8.0/Infrastructure.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/bin/Debug/net8.0/Core.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/bin/Debug/net8.0/Infrastructure.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.csproj.AssemblyReference.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.csproj.Up2Date
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/refint/Business.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/Business.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Business/obj/Debug/net8.0/ref/Business.dll

@@ -1,0 +1,14 @@
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/bin/Debug/net8.0/Core.deps.json
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/bin/Debug/net8.0/Core.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/bin/Debug/net8.0/Core.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/refint/Core.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.pdb
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/ref/Core.dll
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/bin/Debug/net8.0/Core.runtimeconfig.json
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.csproj.AssemblyReference.cache
+/home/sw/projects/rider-workspace/CompanyManagementApplication/Core/obj/Debug/net8.0/Core.genruntimeconfig.cache
